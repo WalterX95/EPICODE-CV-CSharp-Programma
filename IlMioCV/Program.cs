@@ -1,5 +1,6 @@
 ﻿using IlMioCV.Models;  // Importiamo il namespace con le classi
 
+
 class Program
 {
     static void Main()
@@ -69,6 +70,7 @@ class Program
     // Metodo per stampare il CV
     static void StampaDettagliCVSuSchermo(CV cv)
     {
+        Console.OutputEncoding = System.Text.Encoding.UTF8;
         Console.WriteLine("====================================");
         Console.WriteLine("             CURRICULUM VITAE       ");
         Console.WriteLine("====================================\n");

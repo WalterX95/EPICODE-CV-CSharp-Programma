@@ -1,0 +1,14 @@
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioSestaLezione\IlMioCV\IlMioCV\bin\Debug\net8.0\IlMioCV.exe
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioSestaLezione\IlMioCV\IlMioCV\bin\Debug\net8.0\IlMioCV.deps.json
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioSestaLezione\IlMioCV\IlMioCV\bin\Debug\net8.0\IlMioCV.runtimeconfig.json
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioSestaLezione\IlMioCV\IlMioCV\bin\Debug\net8.0\IlMioCV.dll
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioSestaLezione\IlMioCV\IlMioCV\bin\Debug\net8.0\IlMioCV.pdb
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioSestaLezione\IlMioCV\IlMioCV\obj\Debug\net8.0\IlMioCV.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioSestaLezione\IlMioCV\IlMioCV\obj\Debug\net8.0\IlMioCV.AssemblyInfoInputs.cache
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioSestaLezione\IlMioCV\IlMioCV\obj\Debug\net8.0\IlMioCV.AssemblyInfo.cs
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioSestaLezione\IlMioCV\IlMioCV\obj\Debug\net8.0\IlMioCV.csproj.CoreCompileInputs.cache
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioSestaLezione\IlMioCV\IlMioCV\obj\Debug\net8.0\IlMioCV.dll
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioSestaLezione\IlMioCV\IlMioCV\obj\Debug\net8.0\refint\IlMioCV.dll
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioSestaLezione\IlMioCV\IlMioCV\obj\Debug\net8.0\IlMioCV.pdb
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioSestaLezione\IlMioCV\IlMioCV\obj\Debug\net8.0\IlMioCV.genruntimeconfig.cache
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\EsercizioSestaLezione\IlMioCV\IlMioCV\obj\Debug\net8.0\ref\IlMioCV.dll
